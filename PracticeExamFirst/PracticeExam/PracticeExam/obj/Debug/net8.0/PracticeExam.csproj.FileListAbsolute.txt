@@ -1,0 +1,14 @@
+/Users/jonibeksharopov/Documents/PracticeExam/PracticeExamFirst/PracticeExam/PracticeExam/bin/Debug/net8.0/PracticeExam
+/Users/jonibeksharopov/Documents/PracticeExam/PracticeExamFirst/PracticeExam/PracticeExam/bin/Debug/net8.0/PracticeExam.deps.json
+/Users/jonibeksharopov/Documents/PracticeExam/PracticeExamFirst/PracticeExam/PracticeExam/bin/Debug/net8.0/PracticeExam.runtimeconfig.json
+/Users/jonibeksharopov/Documents/PracticeExam/PracticeExamFirst/PracticeExam/PracticeExam/bin/Debug/net8.0/PracticeExam.dll
+/Users/jonibeksharopov/Documents/PracticeExam/PracticeExamFirst/PracticeExam/PracticeExam/bin/Debug/net8.0/PracticeExam.pdb
+/Users/jonibeksharopov/Documents/PracticeExam/PracticeExamFirst/PracticeExam/PracticeExam/obj/Debug/net8.0/PracticeExam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonibeksharopov/Documents/PracticeExam/PracticeExamFirst/PracticeExam/PracticeExam/obj/Debug/net8.0/PracticeExam.AssemblyInfoInputs.cache
+/Users/jonibeksharopov/Documents/PracticeExam/PracticeExamFirst/PracticeExam/PracticeExam/obj/Debug/net8.0/PracticeExam.AssemblyInfo.cs
+/Users/jonibeksharopov/Documents/PracticeExam/PracticeExamFirst/PracticeExam/PracticeExam/obj/Debug/net8.0/PracticeExam.csproj.CoreCompileInputs.cache
+/Users/jonibeksharopov/Documents/PracticeExam/PracticeExamFirst/PracticeExam/PracticeExam/obj/Debug/net8.0/PracticeExam.dll
+/Users/jonibeksharopov/Documents/PracticeExam/PracticeExamFirst/PracticeExam/PracticeExam/obj/Debug/net8.0/refint/PracticeExam.dll
+/Users/jonibeksharopov/Documents/PracticeExam/PracticeExamFirst/PracticeExam/PracticeExam/obj/Debug/net8.0/PracticeExam.pdb
+/Users/jonibeksharopov/Documents/PracticeExam/PracticeExamFirst/PracticeExam/PracticeExam/obj/Debug/net8.0/PracticeExam.genruntimeconfig.cache
+/Users/jonibeksharopov/Documents/PracticeExam/PracticeExamFirst/PracticeExam/PracticeExam/obj/Debug/net8.0/ref/PracticeExam.dll

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeExam", "PracticeExam\PracticeExam.csproj", "{22BC2A13-6E5F-4C59-95AD-8D53E898BBFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22BC2A13-6E5F-4C59-95AD-8D53E898BBFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22BC2A13-6E5F-4C59-95AD-8D53E898BBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22BC2A13-6E5F-4C59-95AD-8D53E898BBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22BC2A13-6E5F-4C59-95AD-8D53E898BBFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
